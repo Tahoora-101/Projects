@@ -1,8 +1,7 @@
----
 # 🕵️‍♂️ Forensic Analysis Report: The Case of the Unstable Inspiron
 
 **Status:** ✅ Case Closed (Root Cause Identified - Hardware Incompatibility/Fault)  
-**Investigator:** Tahoora Kazi 
+**Investigator:** Tahoora Kazi                                                                   
 **System:** Dell Inspiron 7586 (Core i7 8th Gen)  
 **Duration:** Multi-day diagnostic operation  
 
